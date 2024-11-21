@@ -1,6 +1,12 @@
+Here's the updated README with the deployed app link included:  
+
+---
+
 # Laptop Price Prediction  
 
 This project predicts laptop prices based on their hardware specifications using machine learning. The workflow includes data analysis, model building, and deploying a predictive model as a web application using **Streamlit**.  
+
+Check out the live web app here: [Laptop Price Prediction App](https://predict-laptop-price-swayam11.streamlit.app/)  
 
 ---
 
@@ -107,6 +113,8 @@ The Streamlit app allows users to input the following specifications for price p
 
 Users can fill these details to receive a price prediction instantly.  
 
+Try the live web app here: [Laptop Price Prediction App](https://predict-laptop-price-swayam11.streamlit.app/)  
+
 ---
 
 ## Future Enhancements  
@@ -126,6 +134,6 @@ We welcome contributions!
 4. Push to the branch: `git push origin feature-branch-name`.  
 5. Submit a pull request.  
 
----
+--- 
 
-Let me know if any additional sections or modifications are required!
+Let me know if there are further details or features you'd like to add!
